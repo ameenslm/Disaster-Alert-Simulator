@@ -42,6 +42,7 @@ A simple Python program that simulates disaster alerts. Users can generate alert
 1. Generate Disaster Alert
 2. View Saved Alerts
 3. Exit
+
 Enter your choice (1, 2, or 3): 1
 
 Enter the location of the disaster: Springfield
