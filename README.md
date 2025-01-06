@@ -19,11 +19,11 @@ A simple Python program that simulates disaster alerts. Users can generate alert
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/disaster-alert-simulator.git
+   git clone https://github.com/ameenslm/Disaster-Alert-Simulator.git
 
 2. Navigate to the project directory:
    ```bash
-   cd disaster-alert-simulator
+   cd Disaster-Alert-Simulator
 
 3. Run the program:
    ```bash
